@@ -1,0 +1,37 @@
+h1{
+
+}
+
+img{
+max-width: 100%
+}
+
+/*.projectSections{
+    margin-left: 20px;
+    margin-right: 20px;
+    flex-direction: column;
+    align-items: center;
+}*/
+
+p{
+    align-items: left;
+}
+
+.project img{
+    width: 100%;
+}
+.nav{
+    background-color: #D6734F;
+    color: white;
+}
+.nav-link{
+    color:white
+}
+
+.hero-text{
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-size: 48px;
+}
